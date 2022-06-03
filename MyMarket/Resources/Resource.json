@@ -1,0 +1,83 @@
+{
+  "lang_principal_product": {
+    "en-US": "Sandwich",
+    "pt-BR": "Lanche",
+    "es-ES": "Emparedado"
+  },
+  "Index_Page_Title": {
+    "en-US": "Initial Page",
+    "es-ES": "Página Inicial",
+    "pt-BR": "Página Inicial"
+  },
+  "lang_app_name_display": {
+    "en-US": "My Market",
+    "es-ES": "Mi Mercado",
+    "pt-BR": "Meu Mercado"
+  },
+  "lang_welcome_title": {
+    "en-US": "Welcome",
+    "es-ES": "Bienvenido",
+    "pt-BR": "Bem-vindo"
+  },
+  "lang_learn_about": {
+    "en-US": "Learn about",
+    "es-ES": "Más información",
+    "pt-BR": "Sobre"
+  },
+  "lang_home": {
+    "en-US": "Home",
+    "es-ES": "Principal",
+    "pt-BR": "Principal"
+  },
+  "lang_must_be_informed": {
+    "en-US": "must be informed",
+    "pt-BR": "precisa ser informado",
+    "es-ES": "debe ser informado"
+  },
+  "lang_requerid_field": {
+    "en-US": "Required field",
+    "pt-BR": "Campo obrigatório",
+    "es-ES": "Campo obligatorio"
+  },
+  "lang_category_must_be_informed": {
+    "en-US": "Category must be informed",
+    "pt-BR": "Categoria deve ser informado",
+    "es-ES": "La categoría debe ser informada"
+  },
+  "lang_category_description_must_be_informed": {
+    "en-US": "Category description must be informed",
+    "pt-BR": "Descrição da categoria deve ser informado",
+    "es-ES": "Se debe informar la descripción de la categoría"
+  },
+  "lang_price": {
+    "en-US": "Price",
+    "pt-BR": "Preço",
+    "es-ES": "Precio"
+  },
+  "lang_preferred": {
+    "en-US": "Preferred",
+    "pt-BR": "Preferido",
+    "es-ES": "Privilegiado"
+  },
+  "lang_quantity": {
+    "en-US": "Quantity",
+    "pt-BR": "Quantidade",
+    "es-ES": "Cantidad"
+  },
+  "lang_path": {
+    "en-US": "Path",
+    "pt-BR": "Path",
+    "es-ES": "Path"
+  },
+  "lang_Image_path": {
+    "en-US": "Image path",
+    "pt-BR": "Caminho da imagem",
+    "es-ES": "Ruta de la imagen"
+  },
+  "product_name5": {
+    "en-US": "",
+    "pt-BR": "",
+    "es-ES": ""
+  }
+}
+
